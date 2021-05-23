@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="name">Text_Name</string>
+    <string name="email">Text_Email</string>
+    <string name="password">Text_Password</string>
+    <string name="Name_view">Name</string>
+    <string name="Email_view">Email</string>
+    <string name="Password_view">Password</string>
+    <string name="Account_view">Already have an account?</string>
+    <string name="Sign_view">SIGN IN</string>
+    <string name="log_view">LOG IN</string>
+
+</resources>
